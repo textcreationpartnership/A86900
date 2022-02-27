@@ -1,0 +1,175 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The sermon and prophecie of Mr. James Hunt of the county of Kent. Who professeth himselfe a prophet, which hee hath endeavoured to deliver in most churches in and about London, but since delivered in the Old-Baily. Octob. 9. 1641. / Written with his owne hand.</title>
+            <author>Hunt, James, 17th cent.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86900</idno>
+            <idno type="STC">Wing H3733</idno>
+            <idno type="STC">Thomason E172_26</idno>
+            <idno type="STC">ESTC R14695</idno>
+            <idno type="EEBO-CITATION">99859721</idno>
+            <idno type="PROQUEST">99859721</idno>
+            <idno type="VID">111817</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86900)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 111817)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 30:E172[26])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The sermon and prophecie of Mr. James Hunt of the county of Kent. Who professeth himselfe a prophet, which hee hath endeavoured to deliver in most churches in and about London, but since delivered in the Old-Baily. Octob. 9. 1641. / Written with his owne hand.</title>
+                  <author>Hunt, James, 17th cent.</author>
+               </titleStmt>
+               <extent>[1], 7 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Bates,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title page features woodcut illustration.</note>
+                  <note>Signatures: A⁴.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Galatians IV, 4 --  Sermons --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:111817:1" rendition="simple:additions"/>
+            <p>THE SERMON AND PROPHECIE OF Mr. JAMES HVNT of the County of <hi>Kent.</hi>
+            </p>
+            <p>Who profeſſeth himſelfe a Prophet, Which hee hath endeavoured to deliver in moſt Churches in and about <hi>London,</hi> but ſince delivered in the <hi>Old-Baily. Octob.</hi> 9. 1641.</p>
+            <p>
+               <hi>Written with his owne hand.</hi>
+            </p>
+            <figure>
+               <head>Prophet <hi>Hunt.</hi>
+               </head>
+               <figDesc>James Hunt talks to a crowd from a lectern</figDesc>
+            </figure>
+            <p>Printed for <hi>Thomas Bates,</hi> 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:111817:2"/>
+            <head>A plaine and briefe exhortation to ſhew vnto all people the true and perfect way how they may be delivered from the bondage of Hell and Corruption, into the glorious liberty of the children of God.</head>
+            <head type="sub">Wherefore Chriſtian Reader, I Prophet <hi>Hunt,</hi> doe be<g ref="char:EOLhyphen"/>ſeech you for the mercies of God and the true love that is in Jeſus Chriſt, that you will reade this Booke thorough with obſervation, which I hope will bee to your everlaſting joy and glory.</head>
+            <p>St. <hi>Paul</hi> ſaid unto <hi>Timothy</hi> in the 2. Epiſt. Chap. 2. verſ. 5. Study to ſhew thy ſelfe approved unto God, a workman that needeth not to be aſhamed, rightly dividing the word of Truth, ſo all thoſe pla<g ref="char:EOLhyphen"/>ces of Scripture in the new Teſtament which doth belong to the glorious body of Chriſt, I gather into one body to the praiſe and glory of God, and to the edifying of the hearers, but on the other ſide all thoſe places of Scripture which doth concerne the old Law which Chriſt hath redeemed us from, and falſe doctrine of carnall men, I gather that into another Body and doe prove that belongeth to the body of corruption, and beareth image of the earthy.</p>
+            <div type="section">
+               <head>
+                  <hi>Now J come to my text in the</hi> 4. Galath. <hi>verſ.</hi> 4.</head>
+               <pb n="2" facs="tcp:111817:2"/>
+               <p>
+                  <seg rend="decorInit">W</seg>Hen the fulneſſe of time was come, God ſent forth his Son made of a woman made under the law to redeeme them that were under the Law, that we might receive the adopt<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>on of Sons, but the Divines that are under the authority of the Biſhops, they ſay that Chriſt hath redeemed us but from the Ceremony of the old Law, but the Mora<g ref="char:EOLhyphen"/>lity thereof ſhall abide for ever, which they ſay is the 10. Comman<g ref="char:EOLhyphen"/>dements, ſo they keepe the Old Teſtimony ſtill in uſe, becauſe of the 10, Commandements, but I can by the helpe and power of God plain<g ref="char:EOLhyphen"/>ly prove, that the Miniſtration of the new Teſtament doth make men<g ref="char:EOLhyphen"/>tion of a two-fold Law and Commandements, one to be unto death and condemnation, the other to be unto everlaſting life and juſtifica<g ref="char:EOLhyphen"/>tion, for Chriſt Ieſus is the Law and the Commandements in the Doctrine of the New Teſtament, which is the booke of life, for God gave him to be head over all things to the Church which is his bo<g ref="char:EOLhyphen"/>dy, the fulneſſe of him that filleth all in all, for the Prieſt-hood being changed, there is made of neceſſity a change alſo of the Law, <hi>H<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>b.</hi> 7.<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.12. for hee of whom thoſe things are ſpoken pertaineth to another tribe of which no man gave attendance at the Altar, for it is evident that our Lord ſprung out of <hi>Iudah,</hi> of which tribe <hi>Moſes</hi> ſpeake no<g ref="char:EOLhyphen"/>thing concerning Prieſt-hood, &amp; it is yet farre more evident for that after the ſimilitude of <hi>Melchezadeck,</hi> there ariſeth another Prieſt who is made not after the Law of a carnall Commandement, but after the power of an endleſſe life, for the Lord ſweares and will not repent, thou art a Prieſt for ever after the order of <hi>Melchizadeck,</hi> by ſo much as Ieſus made a ſurety of a better Teſtament, <hi>ver.</hi> 21. for in that hee ſaith, a new Covenant, a new Teſtament, he hath made the firſt old, now that which decayeth and waxeth old is ready to vaniſh away, <hi>Heb.</hi> 8. <hi>v.</hi> 13. for there is verily a diſanulling of the Commandement going before, <hi>Heb.</hi> 7. <hi>v.</hi> 18. A diſanulling ſignifies a putting away, and to make void, for the Commandement which was ordained to life, I found that to be unto death, <hi>Rom.</hi> 7. <hi>v.</hi> 10. for Chriſt hath aboliſhed death, and hath brought Mortality into light, as I prove, <hi>Ephe.</hi> 2. <hi>v.</hi> 15. having aboliſhed in his fleſh the emnity, even the Law of Com<g ref="char:EOLhyphen"/>mandements contained in Ordinances for to make in himſelfe of twaine, one in man ſo making peace, and that hee might reconcile both unto God in one body by the Croſſe, having ſlaine the emnity thereby that is Sinne and death, thereby he ſaith he hath aboliſhed in his fleſh the Law of Commandements contained in Ordinances,
+<pb n="3" facs="tcp:111817:3"/>which I ſhall plainly prove to be the Miniſtration of the old Teſta<g ref="char:EOLhyphen"/>ment, which St. <hi>Paul</hi> calleth the Miniſtration of death, for he ſaith in the ſecond Epiſtle to the <hi>Cor. ver.</hi> 7. if the Miniſtration of death, written and ingraven in ſtones was glorious, ſo that the Children of <hi>Iſrael</hi> could not ſtedfaſtly behold the face of <hi>Moſes,</hi> or the glory of his countenance, which glory was to be done away, J underſtand the 10 Commandements was delivered to <hi>Moſes</hi> on Tables of ſtone, and a Miniſtration was raiſed thereby, and circumciſion and thoſe Ordinances which are named in the 9. <hi>chap. Heb. ver.</hi> 19. did belong to the old Teſtament, for when <hi>Moſes</hi> had ſpoken every precept to all the people, according to the Law he tooke the blood of Calves and of Goates, with water and ſcarlet Wooll and Iſope, and ſprink<g ref="char:EOLhyphen"/>led both the booke and all the people, he ſaith plainly, hee ſprinkled both the booke and all the people; ſaying, this is the blood of the Te<g ref="char:EOLhyphen"/>ſtament which God hath enjoyned unto you, thus I have plainly pro<g ref="char:EOLhyphen"/>ved that Circumciſion and thoſe Ordinances which here I have na<g ref="char:EOLhyphen"/>med, did belong to the Old Teſtament, which is the Law of Com<g ref="char:EOLhyphen"/>mandements contained in Ordinances, which Chriſt hath aboliſhed by his Paſſion on the Croſſe, which is the Antichriſtian fleſh and blood which gendereth to the body of corruption, and beareth Image of the Earthy, but on the other ſide, I underſtand and prove that Bap<g ref="char:EOLhyphen"/>tiſme and the Sacrament of Bread and Wine they are two holy Ordi<g ref="char:EOLhyphen"/>nances which doth belong to the glorious body of Jeſus Chriſt, which is the true Chriſtian fleſh and bloud which liveth and abideth fore<g ref="char:EOLhyphen"/>ver, againe I can prove the whole Doctrine of the New Teſtament is all the Commanding power of God to teach and inſtruct his peo<g ref="char:EOLhyphen"/>ple how they ſhould endeavour themſelves what to follow, and what they ſhould flye, my firſt prove is in the 28. of <hi>Matth. ver.</hi> 18. Jeſus came and ſpake unto his Diſciples, ſaying all power is gi<g ref="char:EOLhyphen"/>ven unto me in Heaven and in Earth, goe yee therefore and teach all Nation, Baptiſing them in the name of the Father, and of the Sonne, and of the Holy Ghoſt, teaching them to obſerve all thoſe things whatſoever I have commanded you; againe in the 1 of the <hi>Cor.</hi> 14. <hi>chap. ver.</hi> 29. Then the Apoſtle ſpeakes unto the Church, ſaying; Let the Prophet ſpeake two or three, and let the other judge, for yee all may Prophecy one by one, that all may learne, and all may bee comforted.</p>
+               <pb n="4" facs="tcp:111817:3"/>
+               <p>Againe, in the 37. verſe, hee ſaith, if any man thinke himſelfe to be a Prophet or Spirituall, Let him acknowledge that the things that I write unto you, are the Commandements of the Lord, now in all this Chapter hee doth not make mention of any one of thoſe Com<g ref="char:EOLhyphen"/>mandements which was delivered to <hi>Moſes</hi> on Tables of Stone, yet hee ſaith plainly, the things that I write unto you, are the Com<g ref="char:EOLhyphen"/>mandements of the Lord which doth prove and juſtifie as I ſaid be<g ref="char:EOLhyphen"/>fore, the whole Doctrine of the New Teſtament is all the comman<g ref="char:EOLhyphen"/>ding power of God, for to admoniſh his people what to follow, what they ſhould flye.</p>
+               <p>Againe, in the fifteene Chapter of St. <hi>Iohn, verſe</hi> 14. Chriſt ſaid, yee are my friends, if you doe thoſe things whatſoever I have com<g ref="char:EOLhyphen"/>manded you, and Chriſt is the Mediatour of the New Teſtament, <hi>Heb<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi> 9. and Saint <hi>Paul</hi> ſaith, God hath made us able Miniſters of the New Teſtament, 2. <hi>Cor.</hi> 3. chap. verſe 6. not of the Letter but of the Spirit, for the Letter killeth, but the Spirit giveth life, that is, the Law killeth, but the Goſpell giveth life, for Chriſt ſaith plain<g ref="char:EOLhyphen"/>ly, <hi>John</hi> 5. ver. 24. Verily verily, I ſay unto you, hee that heareth my word and believeth on him that ſent me hath everlaſting life, and ſhall not come into condemnation, but hee is paſſing from death to life, that is, from the death and bondage of ſinne and Satan, by the vertue and Divine power of the word of God in the new Teſtament which is the life of grace. Againe in the 13. chap. <hi>Rom.</hi> ver. 6. for this thou ſhalt not commit Adultery, thou ſhalt not kill, thou ſhalt not ſteale, thou ſhalt not beare falſe witneſſe, thou ſhalt not cover, and if there be any other Commandements, it is briefly comprehen<g ref="char:EOLhyphen"/>ded in this ſaying, namely; thou ſhalt love thy neighbour as thy ſelfe, that is, God would have every man as hee would his neighbour ſhould doe unto him, ſo he ſhould endeavour himſelfe for to doe un<g ref="char:EOLhyphen"/>to his neighbour, love worketh no ill to his neighbour, therefore love is the fulfilling of the Law of the Spirit of life, for God is love, and he that dwelleth in love dwelleth in God, and in him, here<g ref="char:EOLhyphen"/>in is our love made perfect, that we have bo<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dneſſe in the day of Judgement, becauſe as he is, ſo are we in this world, generall of <hi>Iohn.</hi> 4. ſo I praiſe God am I in this world, for God doth not deſire that any ſhould periſh, but rather all ſhould come to the knowledge of his Truth and be ſaved, even ſo it is now with me, for he that is joy<g ref="char:EOLhyphen"/>ned <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o the Lord is one Spirit, and the Spirit of God drawes but one way that is unto Jeſus Chriſt, and to the obedience of his glorious Goſpell.</p>
+               <pb n="5" facs="tcp:111817:4"/>
+               <p>Wherefore now by the helpe and power of God, I will ſay with St. <hi>Paul</hi> as it is written in the 1 of <hi>Cor.</hi> 1. <hi>chap. v.</hi> 20. Where is the wiſe? Where is the Diſputer of this world? I pray where now is the Divell and the Pope and all his carnall Miniſters, with all their dead Doctrines of darkneſſe which are alwayes teaching and preaching up<g ref="char:EOLhyphen"/>on the Law and the Commandements, and yet alas for pitty, they are ſo blinded in their Doctrine and in their Judgement, that they doe not diſcerne betwixt the Law and the Commandements which are unto death and condemnation from the Law and the Commande<g ref="char:EOLhyphen"/>ments which God hath ordained to everlaſting life and juſtification, for I have plainly proved that the Miniſtration of the Old Teſtament is the Law of Commandements contained in Ordinances which Chriſt hath aboliſhed by his Paſſion on the Croſſe, which is unto death and condemnation, but on the other ſide I have proved that Chriſt Jeſus is the Law and Commandements in the New Teſtament, which is un<g ref="char:EOLhyphen"/>to everlaſting life and juſtification the fulneſſe of him that filleth all in all, It is written in the 13 <hi>Revel. ver.</hi> 10. and I heard a loud voice ſaying in Heaven, now is come Salvation, and ſtrength, and the King<g ref="char:EOLhyphen"/>dome of our God and the power of his Chriſt, which is the power<g ref="char:EOLhyphen"/>full preaching of his word in his Goſpell and the accuſer of the Bre<g ref="char:EOLhyphen"/>thren is caſt downe, which accuſed the Brethren before our God day and night, the accuſer of our Brethren plainly ſignifies for to be the Divell and all his carnall Miniſters, which by that authority that is given unto them, they keepe the Children of God under the old Law and falſe Doctrine of carnall men, which I have proved, and ſhall prove to be the ſtrength of ſinne and death to condemnation, but now I make no doubt but the Children of God which ſhall be recon<g ref="char:EOLhyphen"/>ciled unto Chriſt and to his glorious Goſpell, they will riſe ſo pow<g ref="char:EOLhyphen"/>erfully againſt the Divell and all his carnall Miniſters, that their Hel<g ref="char:EOLhyphen"/>liſh power will be broken quite downe, and now that ſaying will be brought to <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aſſe that is written in the 1 <hi>Cor.</hi> 15. <hi>chap. v.</hi> 54. death ſhall be ſwallowed up into victory, death ſhall be ſwallowed up of life: Oh Death where is thy ſting, on Grave where is thy victory, Sathan where is thy Victory, the ſting of death is ſinne, and the ſtrength of ſinne is the Law, but thankes be unto God which hath given us the Victory through Jeſus Chriſt our Lord, ſo I thanke God he hath given me the Victory by the vertue and Divine power of his word in his Goſpell, which is by Jeſus Chriſt our Lord, for the <gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>rength of ſinne is the Law, wherefore as by one man ſinne entred into the world, <hi>Ro<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi> 5. <hi>v.</hi> 12. ſinne entred into <hi>Adam,</hi> and death by ſinne, and
+<pb n="6" facs="tcp:111817:4"/>ſo death paſſed upon all men, for that all have ſinned againe by the offence of one man, judgement came upon all men to condemnation, <hi>ver.</hi> 18. Moreover the Law entred that the offence might abound, but where ſinne abounded, grace did much more abound by one Je<g ref="char:EOLhyphen"/>ſus Chriſt, <hi>ver.</hi> 20. for he was delivered for our offences, and was raiſed againe for our Juſtification, therefore being juſtified by faith, we have peace with God through our Lord Jeſus Chriſt, <hi>Rom.</hi> 5. <hi>v.</hi> 1. wherefore then ſerveth the Law the Apoſtle ſaith plainly, <hi>Gallath.</hi> 3. <hi>chap. v.</hi> 19. It was added becauſe of tranſgreſſion till the ſeed ſhould come, till Chriſt ſhould come, wherefore St. <hi>Iohn</hi> ſaith plainly in his 1. chap. Behold the Lambe of God which taketh away the ſinnes of the world, which taketh away the ſinnes of his people by his Paſſion on the Croſſe, for the ſtrength of ſinne is the Law, and the Divell and all his carnall Miniſters, they are yet the ſtrength of ſinne, for by that authority that is given to them, they keepe the Children of God under unbeliefe, for Chriſt Jeſus in the end of the Law, for Righ<g ref="char:EOLhyphen"/>teouſneſſe to every one that believeth, <hi>Rom.</hi> 10. <hi>chap. ver.</hi> 4. for God hath made him to be ſinne for us who knew no ſinne, that we might be made the Righteouſneſſe of God in him, and we in him, and he in us, by the vertue and Divine power of his word in his Goſpell, which liveth in us, 2 <hi>Cor. chap.</hi> 5. <hi>ver.</hi> 21. for the word of God is quick and powerfull, and ſharper then any two edged Sword, <hi>Heb.</hi> 4. Firſt, it is quick in apprehenſion for to divide betwixt the Law and the Goſpell. Secondly, it is powerfull for to draw the people from the bondage of Hell and corruption into the glorious liberty of the Chil<g ref="char:EOLhyphen"/>dren of God, for God will finiſh the worke and cut it ſhort in Righ<g ref="char:EOLhyphen"/>teouſneſſe, becauſe a ſhort worke will the Lord make upon the Earth, <hi>Rom.</hi> 9. <hi>chap. v.</hi> 28. for Chriſt muſt raigne, but he hath put downe all Rule, and all authority, and power, and Dominion under his feet, that is, all falſe Doctrine and falſe worſhips which belongeth to the Divell and the power of his Kingdome, the laſt enemy that ſhall be deſtroyed is death, and then commeth the end, hereby I plainly un<g ref="char:EOLhyphen"/>derſtand when the Miniſtration of the blood of the New Teſtament, which is the power of God everlaſting life and juſtification, ſhall o<g ref="char:EOLhyphen"/>verthrow the old Law, and all falſe Doctrine of carnall men, which I have plainly proved to be the ſtrength of ſinne and death to condem<g ref="char:EOLhyphen"/>nation, then there ſhall be an end of the outward man in the fleſh; for all the Children of God ſhall be gathered into the unity of the faith, and of the knowledge of the Sonne of God, by the powerfull prea<g ref="char:EOLhyphen"/>ching of his word in the Doctrine of the New Teſtament, which is
+<pb n="7" facs="tcp:111817:5"/>the inward man in the Spirit, therefore being ſaved and juſtified free<g ref="char:EOLhyphen"/>ly by grace, we all have peace with God through Jeſus Chriſt our Lord, Now the God of love and peace who hath brought again from the dead our Lord Jeſus that great Shepheard of the Sheepe, through the blood of the everlaſting Covenant, <hi>Heb.</hi> 13. <hi>chap.</hi> He ſaith, the great Shepheard of the Sheepe: wherefore I acknowledge there is but one God, and there muſt and ſhall be but one Religion, one She<g ref="char:EOLhyphen"/>pheard, and one Sheep-fold, and this is the meanes which God hath ordained for to gather the Sheepe into one fold, is by the powerfull preaching of his word in the Doctrine of the New Teſtament, and we know that the Sonne of God is come and hath given us an under<g ref="char:EOLhyphen"/>ſtanding that we may know him that is true, and we are in him that is true even in his Sonne Jeſus Chriſt, this is the true God and eter<g ref="char:EOLhyphen"/>nall life, unto whom be all praiſe, honour, glory, power, might, Do<g ref="char:EOLhyphen"/>minion, and Majeſty, both now and evermore, <hi>Amen.</hi>
+               </p>
+               <p>I acknowledge that <hi>Davids</hi> Pſalmes ſhall abide for ever, thoſe which are in prooſe for to be read for Divine ſervice, and thoſe which are in meeter for the people to ſing to the praiſe and glory of God.</p>
+               <p>Chriſtian Brethren, I have written a booke here in briefe upon many principall points of Scripture concerning the overthrow of the Divell and the falſe Church, but by the helpe of God, I have ano<g ref="char:EOLhyphen"/>ther booke which will come out very ſhortly to declare theſe things unto you more at large.</p>
+            </div>
+            <trailer>FINIS,</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
